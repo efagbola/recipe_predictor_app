@@ -1,0 +1,12 @@
+{
+  "champion_model_name": "Champion \u2014 Gradient Boosting Regressor",
+  "target": "rating_value",
+  "min_target_value": 4.0,
+  "max_target_value": 5.0,
+  "test_MAE": 0.17775891691985268,
+  "test_RMSE": 0.22646815728640407,
+  "test_R2": 0.12140720717685194,
+  "test_Within_0.10": 0.3705357142857143,
+  "test_Within_0.25": 0.7441964285714285,
+  "test_Within_0.50": 0.9678571428571429
+}
